@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGveKCdtl4/D1kyG6NVDMD9LC2b0dg3UA/view?utm_content=DAGveKCdtl4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1d64850942" alt="Farzana's banner" />
+<img src="https://github.com/FarzanaHaq/FarzanaHaq/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true" alt="Farzana's banner" />
 <h1 align="left">Hi 👋, I'm Farzana</h1>
 <h3 align="left">A passionate Frontend Developer</h3>
 
