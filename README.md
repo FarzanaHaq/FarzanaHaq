@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Farzana</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer on a journey to becoming a Full Stack Developer.</h3>
 
+- 💻 I build responsive, user-friendly interfaces using **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, and **Tailwind CSS**.
+- 🔧 I'm also exploring backend technologies like **Node.js**, **Express**, and **MongoDB** to create full-stack web applications.
+
+- 🚀 I love turning ideas into clean, functional code — with a focus on performance, accessibility, and great user experience.
 - 🔭 I’m currently working on **Twitter clone**
 
 - 🌱 I’m currently learning **mongoose and prisma**
