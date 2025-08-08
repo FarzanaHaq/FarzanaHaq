@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **farzanaridita97@gmail.com**
 
-- 📄 Know about my experiences [resume here](resume here)
+- 📄 my whatsapp: 01911344474
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
