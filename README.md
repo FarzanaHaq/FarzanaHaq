@@ -1,12 +1,14 @@
 <img src="https://github.com/FarzanaHaq/FarzanaHaq/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true" alt="Farzana's banner" />
-<h1 align="left">Hi 👋, I'm Farzana</h1>
-<h3 align="left">A passionate Frontend Developer</h3>
+<h1 align="left">Hi 👋, I'm Farzana Haq</h1>
+<h3 align="left">A passionate Web Developer</h3>
+
+- 💻 I build responsive, user-friendly interfaces using **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, and **Tailwind CSS**.  I'm also exploring backend technologies like **Node.js**, **Express**, and **MongoDB** to create full-stack web applications. I love turning ideas into clean, functional code — with a focus on performance, accessibility, and great user experience.
 
 - 🔭 I’m currently working on **Twitter clone**
 
 - 🌱 I’m currently learning **mongoose and prisma**
 
-- 👨‍💻 All of my projects are available at [portfolio here](portfolio here)
+- 👨‍💻 All of my projects are available at [portfolio here]
 
 - 💬 Ask me about **react, nextjs and framer motion**
 
