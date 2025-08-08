@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [portfolio here]
 
-- 💬 Ask me about **react, nodejs and framer motiom**
-
 - 📫 How to reach me **farzanaridita97@gmail.com**
 
 - 📄 Know about my experiences [resume here]
