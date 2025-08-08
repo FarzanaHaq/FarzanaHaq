@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farzana</h1>
 <h3 align="center">A passionate Frontend Developer on a journey to becoming a Full Stack Developer.</h3>
-
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=358810295336902816" height="460" width="600" frameborder="0" scrolling="no" ></iframe>
 - 💻 I build responsive, user-friendly interfaces using **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, and **Tailwind CSS**.
 - 🔧 I'm also exploring backend technologies like **Node.js**, **Express**, and **MongoDB** to create full-stack web applications.
 
